@@ -1,2 +1,5 @@
 # Operational_Research
-Projects developed for the college subject of operational research. 
+Project developed for the college subject of operational research. 
+
+## Proposed Problem
+Based on linear programming, calculate the optimal solution for the production configuration of a paper roll enterprise. 
